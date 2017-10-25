@@ -31,7 +31,7 @@
 ![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/Shipping.PNG)
 
 8. This is Payment Method
-![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/PaymentsDB.PNG)
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/UserSelectingPayment.PNG)
 
 9. This is Thank You Page
 ![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/ThankYouPage.PNG)
