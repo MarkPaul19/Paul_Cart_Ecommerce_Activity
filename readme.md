@@ -9,5 +9,8 @@
 
 ## About Laravel
 
-Home Page
+1. This is Home Page
 ![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/HomePage.PNG)
+
+2. This is Log In Page
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/LogInPage.PNG)
