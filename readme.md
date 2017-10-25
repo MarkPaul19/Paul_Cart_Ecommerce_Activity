@@ -10,4 +10,4 @@
 ## About Laravel
 
 Home Page
-![alt text] (https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/HomePage.PNG)
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/HomePage.PNG)
