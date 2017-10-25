@@ -14,3 +14,31 @@
 
 2. This is Log In Page
 ![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/LogInPage.PNG)
+
+3. This is Registration Form
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/UserRegistration.PNG)
+
+4. This is Cart Items
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/CartItems.PNG)
+
+5. This is Invoice
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/Invoice.PNG)
+
+6. This is Billing
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/BillingItems.PNG)
+
+7. This is Shipping Method
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/Shipping.PNG)
+
+8. This is Payment Method
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/PaymentsDB.PNG)
+
+9. This is Thank You Page
+![alt text](https://github.com/MarkPaul19/Paul_Cart_Ecommerce_Activity/blob/master/ScreenShots/ThankYouPage.PNG)
+
+
+
+
+
+
+
